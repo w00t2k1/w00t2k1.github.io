@@ -1,0 +1,24 @@
+/*.navbar {
+  background-color: #FF00E1;
+}*/
+
+.row {
+  margin-top: 20px;
+}
+
+.page-header {
+  margin-top: 20px;
+}
+
+.carousel-indicators {
+  bottom: 0px;
+}
+
+.col-md-4 {
+  padding-top: 10px;
+}
+
+/*
+body {
+  background-color: #5cb85c;
+}*/
