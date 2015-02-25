@@ -22,3 +22,13 @@
 	border-width: 0px 0px 2px;
 }
 
+.navbar-nav li {
+	margin-left: 15px;
+}
+
+.navbar-nav li a {
+	color: #454444;
+	font-size: 20px;
+	font-weight: bold;
+}
+
