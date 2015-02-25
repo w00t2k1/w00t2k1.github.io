@@ -11,3 +11,14 @@
 .row-index {
 	text-align: center;
 }
+
+.navbar-inverse {
+	background-color: #FFF;
+	border-color: #080808;
+}
+
+.navbar-fixed-top {
+	top: 0px;
+	border-width: 0px 0px 2px;
+}
+
