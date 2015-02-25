@@ -36,5 +36,7 @@
 	margin-left: 50px;
 }
 
-
-
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+	color: #52B021;
+	background-color: transparent;
+}
