@@ -43,6 +43,11 @@
 	color: #8cc63f;
 	background-color: transparent;
 }
+
+#index-text {
+	text-align: justify;
+	font-size: 16px;
+}
 @media(min-width:768px) {
 
 	.top-nav-collapse {
