@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5d372f55-6dc9-452e-8ca5-a5f70426f697" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ordination.html" afterPath="$PROJECT_DIR$/ordination.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team.html" afterPath="$PROJECT_DIR$/team.html" />
     </list>
     <ignored path="ordiPezi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44816053">
-              <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.53177255">
+              <caret line="101" column="4" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="171" />
               <folding />
             </state>
           </provider>
@@ -532,12 +529,12 @@
       <workItem from="1429270546273" duration="11000" />
       <workItem from="1429367031573" duration="6919000" />
       <workItem from="1431360258813" duration="31000" />
-      <workItem from="1432394196824" duration="12999000" />
+      <workItem from="1432394196824" duration="13083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49568000" />
+    <option name="totallyTimeSpent" value="49652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="0" />
@@ -958,8 +955,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44816053">
-          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.53177255">
+          <caret line="101" column="4" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="171" />
           <folding />
         </state>
       </provider>
