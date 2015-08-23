@@ -100,5 +100,11 @@
         padding-right: 10px;
         margin-right: 0px;
     }
+}
 
+@media(max-width:767px) {
+
+    .index-pic {
+        margin-top: 30px;
+    }
 }
