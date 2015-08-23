@@ -107,4 +107,8 @@
     .index-pic {
         margin-top: 30px;
     }
+
+    .navbar-inverse .navbar-toggle .icon-bar {
+        background-color: #9BC643;
+    }
 }
