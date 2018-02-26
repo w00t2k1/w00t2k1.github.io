@@ -10,10 +10,12 @@ $(window).scroll(function() {
         $(".navbar-fixed-top").addClass("top-nav-collapse");
         $(".navbar-nav").addClass("navbar-nav-custom");
         $(".logo").hide();
+        $(".logo2").show();
     } else {
         $(".navbar-fixed-top").removeClass("top-nav-collapse");
         $(".navbar-nav").removeClass("navbar-nav-custom");
         $(".logo").show();
+        $(".logo2").hide();
     }
 });
 

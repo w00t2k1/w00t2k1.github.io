@@ -14,6 +14,11 @@
 	text-align: center;
 }
 
+.logo2 {
+	display: none;
+	margin-top: 5px;
+}
+
 .navbar-inverse {
 	background-color: #FFF;
 	border-color: #080808;
@@ -22,6 +27,7 @@
 .navbar-fixed-top {
 	top: 0px;
 	border-width: 0px 0px 2px;
+	border-bottom-color: rgb(52, 142, 162);
 }
 
 /*.navbar-nav li {*/
@@ -40,13 +46,22 @@
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #8cc63f;
+	color: rgb(52, 142, 162);
 	background-color: transparent;
 }
 
 .index-text {
 	text-align: justify;
 	font-size: 16px;
+	color: rgb(52, 142, 162);
+}
+
+.indexH2 {
+	color: rgb(26, 118, 162);
+}
+
+.infos{
+	font-size: 17px;
 }
 
 .col {
@@ -54,9 +69,28 @@
 }
 
 .panel-heading {
-    background-color: #9BC643 !important;
+    background-color: rgb(52, 142, 162) !important;
 }
 
+.page-header {
+	color: rgb(52, 142, 162);
+}
+
+.headlining {
+	color: white;
+}
+
+.panel-body {
+	color: rgb(52, 142, 162);
+}
+
+p {
+	color: rgb(52, 142, 162);
+}
+
+h3 {
+	color: rgb(26, 118, 162);
+}
 
 @media(min-width:768px) {
 
@@ -77,7 +111,7 @@
 	}
 
 	.navbar-nav-custom {
-		margin-left: 110px;
+		margin-left: 30px;
 
 	}
 }
@@ -114,6 +148,6 @@
     }
 
     .navbar-inverse .navbar-toggle .icon-bar {
-        background-color: #9BC643;
+        background-color: rgb(52, 142, 162);
     }
 }
